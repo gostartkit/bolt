@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/boltdb/bolt"
-	"github.com/boltdb/bolt/cmd/bolt"
+	"pkg.gostartkit.com/bolt"
+	"pkg.gostartkit.com/bolt/cmd/bolt"
 )
 
 // Ensure the "info" command can print information about a database.
